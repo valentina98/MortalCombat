@@ -1,0 +1,11 @@
+D:\documents\STD\C#oop\fightGame\fightGame\bin\Debug\netcoreapp2.0\fightGame.deps.json
+D:\documents\STD\C#oop\fightGame\fightGame\bin\Debug\netcoreapp2.0\fightGame.runtimeconfig.json
+D:\documents\STD\C#oop\fightGame\fightGame\bin\Debug\netcoreapp2.0\fightGame.runtimeconfig.dev.json
+D:\documents\STD\C#oop\fightGame\fightGame\bin\Debug\netcoreapp2.0\fightGame.dll
+D:\documents\STD\C#oop\fightGame\fightGame\bin\Debug\netcoreapp2.0\fightGame.pdb
+D:\documents\STD\C#oop\fightGame\fightGame\obj\Debug\netcoreapp2.0\fightGame.csprojResolveAssemblyReference.cache
+D:\documents\STD\C#oop\fightGame\fightGame\obj\Debug\netcoreapp2.0\fightGame.csproj.CoreCompileInputs.cache
+D:\documents\STD\C#oop\fightGame\fightGame\obj\Debug\netcoreapp2.0\fightGame.AssemblyInfoInputs.cache
+D:\documents\STD\C#oop\fightGame\fightGame\obj\Debug\netcoreapp2.0\fightGame.AssemblyInfo.cs
+D:\documents\STD\C#oop\fightGame\fightGame\obj\Debug\netcoreapp2.0\fightGame.dll
+D:\documents\STD\C#oop\fightGame\fightGame\obj\Debug\netcoreapp2.0\fightGame.pdb
